@@ -1,5 +1,7 @@
 # Batik-Classification
 
+https://colab.research.google.com/drive/17TQFyQrSLsnieVauxnDX_vubh_hSrekx?usp=sharing
+
 ## Project Overview
 This project addresses the classification of Indonesian batik motifs using deep learning models. By leveraging both custom convolutional neural networks and pretrained models, the project aims to distinguish between different batik motifs with a focus on achieving high accuracy. The project utilizes a dataset containing images of batik motifs such as batik-parang, batik-megamendung, and batik-kawung.
 
